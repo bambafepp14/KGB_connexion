@@ -1,0 +1,17 @@
+PRESENTATION DU PROJET 
+    - description du projet 
+    - presentation  graphique 
+    - test projet
+
+PRESENTATION DU FRONTE
+    - responsive
+    - arborescence 
+    - langages et librairies
+    - presentation rapide 
+
+PRESENTATION DU BACK 
+    - presentation de comminication de site web 
+    - la mise en place de php 
+    - presention l ajout des missions et la recuperation et l affichage 
+ 
+QUESTION : 
